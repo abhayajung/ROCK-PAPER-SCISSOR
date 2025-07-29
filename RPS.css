@@ -1,0 +1,7 @@
+.buttons {
+  background-color: gold;
+  border: none;
+  border-radius: 25px;
+  height: 50px;
+  cursor: pointer;
+}
