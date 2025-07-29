@@ -1,7 +1,34 @@
 .buttons {
-  background-color: gold;
+  background-color: white;
   border: none;
   border-radius: 25px;
-  height: 50px;
+  height: 90px;
   cursor: pointer;
+  width: 500px;
+}
+
+.result {
+  font-family: Arial;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  border-radius: 25px;
+  height: 90px;
+  cursor: pointer;
+  width: 500px;
+  margin-left: 20px;
+}
+
+.rock {
+  height: 50px;
+}
+
+.paper {
+  height: 50px;
+}
+
+.scissor {
+  height: 50px;
 }

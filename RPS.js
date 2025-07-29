@@ -6,7 +6,7 @@ function calculate(playerChoice) {
   const playerMove = options[playerChoice];
 
   let result = "";
-  if (playerChoice == computerChoice) {
+  if (playerMove == computerChoice) {
     document.write(" got a tie!!");
   } else if (
     (playerChoice == 0 && computerChoice == 2) ||
