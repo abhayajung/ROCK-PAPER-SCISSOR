@@ -7,8 +7,13 @@
   width: 500px;
 }
 
+.header {
+  color: antiquewhite;
+}
+
 .result {
   font-family: Arial;
+  color: antiquewhite;
 }
 
 .button {
