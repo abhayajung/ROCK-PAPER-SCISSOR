@@ -6,9 +6,9 @@ function calculate(playerChoice) {
   const playerMove = options[playerChoice];
 
   const imageMap = {
-    ROCK: "IMAGE/punch.png",
-    PAPER: "IMAGE/hello.png",
-    SCISSOR: "IMAGE/scissor.png",
+    ROCK: "punch.png",
+    PAPER: "hello.png",
+    SCISSOR: "scissor.png",
   };
 
   let result = "";
